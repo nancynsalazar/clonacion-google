@@ -1,4 +1,4 @@
-# M1S6: Clonación de la Interfaz de Google con HTML y CSS
+# Clonación de la Interfaz de Google con HTML y CSS
 
 Hola, ha llegado el momento de poner en práctica lo aprendido y para ello te pido que puedas clonar la interfaz de Google siguiendo los diguientes pasos:
 
@@ -55,7 +55,7 @@ Aplicarás:
 
 ****
 
-## 5. Requisitos y entregables
+## 5. Requisitos
 
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
