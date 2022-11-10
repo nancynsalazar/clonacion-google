@@ -37,7 +37,7 @@ Este proyecto está enfocado en construir la interfaz estática de Google.
 Se te pide que sea una sola página que contenga las secciones siguientes:
   - **a. Header**
     Sección que involucra la foto del perfil, iconos, logo de Google y las áreas principales del sitio.
-  - **b. main**
+  - **b. Main**
     Sección del contenedor para los elementos centrales de la página. 
   - **c. Footer**
     Sección que incluye hipervínculos al final de la página.
@@ -68,6 +68,6 @@ Realizarse de manera individual
 - [ ] Aplicar tipos de selectores en CSS.
 - [ ] Sección `Header`, `main`, `footer`
 
-### ENTREGA A TIEMPO
-- [ ] Entregar a tiempo el proyecto.
+
+Happy coding!❤
 
