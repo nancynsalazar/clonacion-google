@@ -4,7 +4,7 @@ Hola, ha llegado el momento de poner en práctica lo aprendido y para ello te pi
 
 ## **ÍNDICE**
 
-* [1. Intro](https://github.com/nancynsalazar/clonaciongoogle-intro)
+* [1. Intro](https://github.com/nancynsalazar/clonacion-google/blob/main/README.md#1-intro)
 * [2. Demo](https://github.com/nancynsalazar/clonaciongoogle-demo)
 * [3. ¿Qué construirás?](https://github.com/nancynsalazar/clonaciongoogle-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de Aprendizaje](https://github.com/nancynsalazar/clonaciongoogle-objetivos-de-aprendizaje)
